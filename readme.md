@@ -2,7 +2,7 @@
 Welcome to Movie Matcher, an end-to-end machine learning application that suggests movies based on plot descriptions, genres, and cast metadata. This project was built as part of an AI/ML workflow assignment, covering everything from raw data preprocessing to cloud deployment.
 
 ## Live Demo
-You can access the deployed application here: [INSERT YOUR RENDER URL HERE]
+You can access the deployed application here: https://assignment-no-20.onrender.com
 
 ## Project Overview
 This system uses a Content-Based Filtering approach. Unlike collaborative filtering which relies on user ratings, this model recommends movies by analyzing the "DNA" of the film itself.
